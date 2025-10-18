@@ -95,3 +95,4 @@ String apiKey = "YOUR_API_KEY_HERE";
 
 
 OUTPUT
+<img width="750" height="462" alt="Image" src="https://github.com/user-attachments/assets/ce478cd6-7724-4126-8a62-e1d85c429eff" />
